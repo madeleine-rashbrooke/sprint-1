@@ -1,3 +1,4 @@
+Just adding a bit as I work my way back through the assignment I did on my old computer.
 Why does it always have to be 'your mother' that's the clueless person you're explaining things to? Why not your father or other male relative? OK, this doesn't work in my family - my father does a certain amount of computer programming stuff - but as a general principle...
 
 Anyway, the command line is like an old school version of Siri - it's where you ask the computer to do things or ask it for information, but using very structured dialogue rather than more natural language.
